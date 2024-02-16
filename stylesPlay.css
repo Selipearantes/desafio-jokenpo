@@ -1,0 +1,13 @@
+.playPag1 {
+    color: rgb(255, 255, 255);
+    width: 100px;
+    background-color: rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    margin-bottom: 50px;
+    margin-top: 25px;
+    box-shadow: 1px 5px 6px rgba(0, 0, 0, 0.46);
+}
+
+.retunorInicio {
+    color: white;
+}

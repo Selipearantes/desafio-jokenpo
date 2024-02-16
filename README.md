@@ -1,0 +1,5 @@
+![image](https://github.com/Selipearantes/desafio-jokenpo/assets/146665830/eef2deea-d584-4991-945e-a4396294ae50)
+![image](https://github.com/Selipearantes/desafio-jokenpo/assets/146665830/8f732023-bc1d-4f20-b839-0b7314590ee3)
+![image](https://github.com/Selipearantes/desafio-jokenpo/assets/146665830/eb8d5f14-4041-4ec4-9090-be98dea004f5)
+![image](https://github.com/Selipearantes/desafio-jokenpo/assets/146665830/1645f4dc-82af-42a1-9692-9d7c8da8cdf2)
+![image](https://github.com/Selipearantes/desafio-jokenpo/assets/146665830/030060ff-11c2-4dc2-bc5e-d32bb8e1aa5b)
